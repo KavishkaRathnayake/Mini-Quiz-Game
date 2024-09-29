@@ -1,0 +1,59 @@
+1.Which programming language is often referred to as the "mother of all languages"  ok
+a) Python
+b) C++
+c) C           c
+d) SQL
+
+2.Which Computer program converts assembly Language to machine language?  ok
+a) Interpreter
+b) Compiler
+C) Assembler     c
+d) Comparator
+
+3.ORACLE is a......     ok
+a)Operating System
+b)RDBMS     c
+c)Interpreter
+d)Compiler
+
+4.Who developed Java programming language ?    ok
+a)James Gosling         c
+b)Douglas Engelbart
+c)Edmund M. Clarke
+d)James D. Foley
+
+5.Which of the following languages is usually implemented with an interpreter ?   ok
+a)PASCAL
+b)Assembly    c
+c)COBOL
+d)BASIC
+
+6.The relation between Car and Owner or BankAccount and Customer is example for ?   ok
+
+a)Aggregation
+b)Composition
+c)Association   c
+d)None
+
+7.How do you comment a single-line in C?      ok
+a) /* ... */
+b) // ...      c
+c) -- ...
+d) ' ... '
+
+8.When a variable is created in C, a memory address is assigned to the variable.
+a) False
+b) True   c
+
+9.Which header file should be included to work with strings in C?          ok
+a) string.h     c
+b) stdio.h
+c) math.h
+d) input.h
+
+10.What does "printf" do in C programming?    ok 
+a) Scans input from the user
+b) Prints output to the console     c
+c) Performs arithmetic operations
+d) Declares variables
+

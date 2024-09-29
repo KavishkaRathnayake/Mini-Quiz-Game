@@ -1,0 +1,68 @@
+1.The Analytical engine was designed in ____________.  ok
+
+1801
+1833   c
+1890
+500 BC
+
+2.In what year was the first electronic general-purpose computer, the ENIAC, completed?    ok
+
+a) 1936
+b) 1945   c
+c) 1952
+d) 1960
+
+3.What's the name of the inventor of the Analytical Machine?   ok
+
+Albert Einstein
+Stephen Hawking
+Charles Babbage  c
+Konrad Zuse
+
+4.Who developed the first program?  ok
+
+Alan Turing
+Charles Babbage
+Ada Lovelace         c
+Tim Berners Lee
+
+5.The First Generation of Computers used what?  ok
+
+Transistors
+Vacuum Tubes     c
+Integrated Circuits
+Mechanicals
+
+6.The World Wide Web was invented by:    ok
+
+a) Tim Berners-Lee   c
+b) Steve Jobs
+c) Bill Gates
+d) Mark Zuckerberg
+
+7. Which was the first commercial computer?  ok
+Ferranti Mark 1           c
+Analytical Engine
+Difference Engine
+Colossus
+
+8.Who invented the punch card?  ok 
+Charles Babbage
+Semen Korsakov
+Herman Hollerith            c
+Joseph Marie Jacquard
+
+9.Which electronic components are used in Fifth Generation Computers?   ok
+Transistors
+Integrated Circuits
+VLSI Microprocessor
+ULSI Microprocessor    c
+
+10. __________ is used as a programming language in first generation computers?
+FORTRAN
+COBOL
+BASIC
+Machine Language     c
+
+
+

@@ -1,0 +1,59 @@
+1.What does the acronym "URL" stand for?
+a) Universal Resource Local
+b) Uniform Resource Locator    c
+c) Unified Resource Library
+d) United Resource Located
+
+2. What is the full form of PDF?
+a)Printed Document Format
+b)Public Document Format
+c)Portable Document Format     c
+d)Published Document Format
+
+3.Which one is not a part of a computer system
+a) Motherboard
+b)CPU
+c)Keyboard
+d)Scanner    c
+
+4.Who is the founder of Bluetooth ?
+a)Ericsson    c
+b)IBM
+c)Apple
+d)Dell
+
+5.Which storage technology is non-volatile and commonly used in USB drives and memory cards?
+a) HDD (Hard Disk Drive)
+b) SSD (Solid State Drive)    c
+c) CD-ROM
+d) Floppy Disk
+
+6.Which operating system is developed and used by Apple Inc ?
+a)Windows
+b)Android
+c)iOS    c
+d)UNIX
+
+7.Linus Torvalds develop which operating System?
+a)Windows
+b)Mac OS
+c)UNIX
+d)Linux  c
+
+8.In computer world, Trojan refer to ?
+a)Virus
+b)Malware    c
+c)Worm
+d)Spyware
+
+9.A computer use which type of number system to calculate and to store data ?
+a)Decimal
+b)octal
+c)Binary   c
+d)haxadecimal
+
+10.What is the extension type of the excel 2007 files ?
+a).xls
+b).xlsx    c
+c).xsl
+d)None of the above
